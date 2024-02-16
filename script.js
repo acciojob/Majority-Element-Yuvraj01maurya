@@ -14,4 +14,4 @@ function majorityElement(nums) {
 }
 
 // Test cases
-console.log(majorityElement([2, 1, 2])); // Output: 2
+// console.log(majorityElement([2, 1, 2])); // Output: 2
